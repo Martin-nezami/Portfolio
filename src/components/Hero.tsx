@@ -24,6 +24,14 @@ export default function Hero() {
         >
           Get in touch
         </a>
+        <a
+          href={profile.links.resume}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full border border-black/15 px-5 py-2.5 transition-colors hover:border-black/30 dark:border-white/20 dark:hover:border-white/40"
+        >
+          Resume
+        </a>
       </div>
     </section>
   );

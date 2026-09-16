@@ -1,16 +1,16 @@
 // Edit this file to update your portfolio content — no need to touch component code.
 
 export const profile = {
-  name: "Your Name",
-  role: "Your Role / Title",
+  name: "Matin Nezami",
+  role: "Software Engineer/ AI Engineer",
   tagline:
     "A one-sentence pitch: what you build, who it's for, and what makes your approach different.",
-  location: "City, Country",
-  email: "you@example.com",
+  location: "Stuttgart, Germany",
+  email: "matinnezami07@gmail.com",
   links: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    resume: "/resume.pdf",
+    github: "https://github.com/Martin-nezami",
+    linkedin: "https://www.linkedin.com/in/matin-nezami/",
+    resume: "/Modern_CV.pdf",
   },
 };
 
