@@ -204,6 +204,13 @@ export const education = {
   ],
 };
 
+export const suggestedQuestions: string[] = [
+  "How does the Fake News Detection project compare classical ML and BERT?",
+  "How does the Face Recognition project adapt to new people?",
+  "What's Matin's ML/DL stack?",
+  "What role is Matin looking for?",
+];
+
 export const contact = {
   heading: "Have an ML problem worth solving?",
   subtext: "I'm open to AI / ML engineering roles and interesting data problems.",
